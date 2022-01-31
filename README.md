@@ -24,7 +24,7 @@ The school board has notified Maria and her supervisor that the students_complet
 ![image](https://user-images.githubusercontent.com/96445453/151738971-7df53719-3b9f-4445-a0b6-51a015a86f8d.png)
 
 
--How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
   - Thomas HS math and reading increased by .06.
   - The overall Passing % of Thomas High School decreased by .11%
