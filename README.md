@@ -11,11 +11,13 @@ The school board has notified Maria and her supervisor that the students_complet
 
 - How is the district summary affected? We replced the ninth grader's math and reading scores with NaN this had several affects:
  
-    - The Overall Passing % for Thomas HS dropped 65%.
+    - The Overall Passing % for Thomas HS dropped 65%.07
     - The Overall Passing % for the district dropped to 64.9%
     - Thomas HS is no longer in the top five schools.   
 
 ![image](https://user-images.githubusercontent.com/96445453/151736963-16b40876-7490-47df-af0c-46c342ea9952.png)
+![image](https://user-images.githubusercontent.com/96445453/151740508-bb539f73-2b9d-488c-8d58-00e54421ce66.png)
+
 
 - School Summary
  
